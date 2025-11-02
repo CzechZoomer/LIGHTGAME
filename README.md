@@ -1,2 +1,5 @@
 # LIGHTGAME
-a simple 2d game about light and monsters...I guess
+
+Název hry : Lightgame
+Autor : Matěj Haruda (Czechzoomer)
+

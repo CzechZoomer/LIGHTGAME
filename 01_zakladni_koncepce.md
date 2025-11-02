@@ -35,3 +35,8 @@
 - Omezené zorné pole hráče (světlo baterky)  
 - Občasné blikání světla nebo iluze pohybu ve tmě  
 - Hra bez přímého boje – přežití pomocí vyhýbání se a šetření světla
+
+
+ ## Fun fact
+
+ - Hra je inspirovaná reálnou událostí
